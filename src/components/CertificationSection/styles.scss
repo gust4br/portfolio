@@ -1,0 +1,33 @@
+.certification{
+  width: 50%;
+  header{
+    display: flex;
+    align-items: center;
+
+    color: white;
+
+    svg{
+      width: 2.75rem;
+      height: 2.75rem;
+    }
+
+    h2{
+      font-weight: 700;
+      margin-left: 1rem;
+      font-size: 2.25rem;
+    }
+  }
+
+  .certificationItems{
+    display: flex;
+  
+    margin-top: 1rem;
+
+    aside{
+      min-width: 3rem;
+      margin-left: 1.30rem;
+      min-height: 100%;
+      border-left: 2px solid var(--gray-900);
+    }
+  }
+}

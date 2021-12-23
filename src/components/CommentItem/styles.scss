@@ -1,0 +1,28 @@
+.comment{
+  width: 25rem;
+  height: 16rem;
+
+  color: white;
+
+  margin-bottom: 2rem;
+
+  margin-right: 2rem;
+
+  header{
+    display: flex;
+    align-items: center;
+    
+    margin-bottom: .75rem;
+
+    h2{
+      font-size: 1.5rem;
+      margin-left: .75rem;
+    }
+  }
+
+  p{
+    font-size: 1rem;
+
+    color: var(--gray-700);
+  }
+}

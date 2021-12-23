@@ -1,0 +1,42 @@
+.project{
+  outline: none;
+  border: none;
+
+
+  width: 25rem;
+  height: 25rem;
+
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+
+  background: linear-gradient(0deg, #6954EA 20.83%, rgba(105, 84, 234, 0.21) 100%);
+  
+  border-radius: 5px;
+
+  color: #FFFFFF;
+
+  display: flex;
+  flex-direction: column;
+
+  position: relative;
+
+  cursor: pointer;
+  
+  .projectInfos{
+    position: absolute;
+
+    bottom: 7%;
+    left: 5%;
+
+    p{
+      text-align: left;
+      opacity: 0.7;
+    }
+  }
+
+  &:hover, &:focus{
+    filter: brightness(0.9);
+    transform: translateY(5px);
+    border: 1px solid #6954EA;
+  }
+}

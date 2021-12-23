@@ -1,0 +1,32 @@
+.pre-ts{
+  margin-top: 5rem;
+
+  padding: 2rem 15rem 2rem 2rem;
+
+  background-color: var(--code-background);
+
+  border-radius: 10px;
+
+  .code-ts{
+
+    letter-spacing: 0.5px;
+    word-spacing: -2px;
+    line-height: 1.5;
+
+    color: white;
+
+    .blue{
+      color: var(--code-blue);
+    }
+    .orange{
+      color: var(--code-orange);
+    }
+    .green{
+      color: var(--code-green);
+    }
+    .black{
+      color: var(--code-black);
+    }
+
+  }
+}

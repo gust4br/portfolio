@@ -1,0 +1,32 @@
+.dev-bg{
+  display: flex;
+  align-items: center;
+
+  flex-direction: column;
+
+  padding: 0 2rem 10rem;
+
+  #developer-bg{
+   font-size: 10rem;
+   
+    background: -webkit-linear-gradient(207.22deg, rgba(105, 84, 234, 0.08) 16.98%, rgba(105, 84, 234, 0.26) 108.73%);
+    
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  #name-bg{
+    display: flex;
+    align-items: center;
+
+    position: absolute;
+    top: 6.8rem;
+
+    h4{
+      color: white;
+      font-size: 4rem;
+    }
+    #blue-bg{
+      color: var(--blue-primary);
+    }
+  }
+}
