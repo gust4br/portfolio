@@ -1,4 +1,4 @@
-![project header](https://github.com/gustavosgdev/portfolio/blob/main/assets/heading.png)
+![project header](https://github.com/gustavosgdev/portfolio/blob/main/assets/heading.png){:height="700px" width="400px"}
 
 <h1 align="center" href> MEU PORTFOLIO </h1>
 <h2 align="center"> Acesse <a href="https://gustavosgdevportfolio.netlify.app">clicando aqui</a>
@@ -29,7 +29,7 @@ Este site foi feito utilizando a stack que eu mais gosto de trabalhar Reactjs, T
 - [ ] Custom API
 
 ### Tech:
-#### the following tools were used in this project:
+#### As seguintes tecnologias foram utilizadas nesse projeto:
 
 - Typescript
 - React
