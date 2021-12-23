@@ -22,7 +22,7 @@ export function Span({value, blue, orange, green, black}: SpanProps){
     }else if(black){
       setColor('black');
     }
-  }, [])
+  }, [blue, orange, green, black])
 
   return(
     <span className={color}>
