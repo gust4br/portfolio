@@ -1,4 +1,4 @@
-![project header](https://github.com/gustavosgdev/portfolio/blob/main/assets/heading.png){:height="700px" width="400px"}
+<img src="https://github.com/gustavosgdev/portfolio/blob/main/assets/heading.png" width="800px" height="400px">
 
 <h1 align="center" href> MEU PORTFOLIO </h1>
 <h2 align="center"> Acesse <a href="https://gustavosgdevportfolio.netlify.app">clicando aqui</a>
